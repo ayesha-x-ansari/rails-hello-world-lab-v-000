@@ -357,6 +357,7 @@ ActionView::MissingTemplate (Missing template static/hello_world, application/he
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (37.5ms)
+<<<<<<< HEAD
 
 
 Started GET "/hello_world" for 64.231.138.4 at 2018-06-06 20:38:11 +0000
@@ -378,3 +379,5 @@ Started GET "/assets/turbolinks.self-2db6ec539b9190f75e1d477b305df53d12904d5cafd
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 64.231.138.4 at 2018-06-06 20:38:11 +0000
+=======
+>>>>>>> a69dd26235783b068f83277702054bb102268957
